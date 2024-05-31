@@ -1,6 +1,6 @@
-#section 3 of the Academing course on NextJs
+# section 3 of the Academing course on NextJs
 
-#How to start the project
+## How to start the project
 
 clone the project from github
 
