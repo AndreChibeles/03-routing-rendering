@@ -1,4 +1,4 @@
-# section 3 of the Academind course on NextJs
+# Section 3 of the Academind course on NextJs
 
 ## How to start the project
 
